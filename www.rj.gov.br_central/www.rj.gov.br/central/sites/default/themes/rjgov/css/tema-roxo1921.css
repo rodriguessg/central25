@@ -1,0 +1,60 @@
+/*Author Gianlucca Augusto <gianlucca.augusto@extreme.digital>
+ version 1.1
+ copyright Proderj 2023.*/
+
+.cabecalho {
+    background: linear-gradient(90deg, #192844 67.81%, #472774 100%);
+}
+
+.link-slider-principal {
+    background: linear-gradient(90deg,#192844c7 67.81%,#472774ab 100%);
+}
+
+.views-field-title>span>a {
+    color: #462773 !important;
+}
+
+.lista-noticias {
+    background-color: #192844;
+}
+
+.titulo-secao span {
+    color: #462773;
+}
+
+.titulo-secao span::after {
+    background: #462773;
+}
+
+.acesso-informacao {
+    background: linear-gradient(90deg,#192844 67.81%,#472774 100%);
+}
+
+.boxes-acesso article {
+    background: #594f9f;
+}
+
+.footer {
+    background: linear-gradient(90deg, #192844 67.81%, #472774 100%);
+}
+
+.noticia-gride a {
+    color: #594f9f !important;
+}
+
+.page-title {
+    color: #594f9f;
+    border-bottom: 1px dashed #594f9f;
+}
+
+.form-select {
+    background-color: #594f9f !important;
+}
+
+.botao-aplicar, .button, .image-button {
+    background-color: #594f9f !important;
+}
+
+#lnkAnterior, #lnkProximo, a {
+    color: #594f9f;
+}

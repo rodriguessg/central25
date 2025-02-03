@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.rj.gov.br	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_1_sn_86CF3286583BA72702EAB4E5BE96CE6F_perc_100000_ol_0_mul_1_app-3A14d346d98beb29b8_1_rcs-3Acss_0
+www.rj.gov.br	TRUE	/	FALSE	1999999999	cookiesession1	678B288D3C4F45C18816E306D4CF27FF
+www.rj.gov.br	TRUE	/	FALSE	1999999999	openshift-session-persistence-cookie	f8c8bc2bd07d46ff
+jitsi.rj.gov.br	TRUE	/	FALSE	1999999999	e27af073fcd64bb7363423110f00754b	f06a306d01bd679c6c7e40058455315d
+jitsi.rj.gov.br	TRUE	/	FALSE	1999999999	SameSite	None
+
