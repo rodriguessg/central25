@@ -62,16 +62,7 @@ input[type="search"]::-webkit-search-results-decoration {
 .list-menu li a {text-decoration: none; color:#fff; font-size: .8em; display: block; transform: skew(15deg);}
 .list-menu li:hover{background: #02385f; cursor: pointer;}
 
-/* CONTAINER */
-.section-container{width: 76%; text-align: justify; padding: 1em 0px; margin:0 auto;}
-.section-container#cabecalho {width: 95%; margin: 0 auto; display: flex; justify-content: space-between; align-items: center;}
-.p p{
-  display: block;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px
-}
+
 
 /* SeÃ§Ã£o de Noticias */
 .container-noticias{margin-top:30px;}
